@@ -1,0 +1,13 @@
+[project]
+name = "devscale-streamlit"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2.3",
+    "streamlit-folium>=0.24.0",
+    "streamlit>=1.43.1",
+    "ipykernel>=6.29.5",
+    "folium>=0.19.5",
+]
